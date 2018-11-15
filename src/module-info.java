@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hsbaewa
+ *
+ */
+module LiskovPrinciple {
+}
